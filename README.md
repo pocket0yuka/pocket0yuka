@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://raw.githubusercontent.com/pocket0yuka/pocket0yuka/output/github-contribution-grid-snake.svg)
+
 ## 🌱Skills Currently Learning
 [![Skills](https://skillicons.dev/icons?perline=9&i=ruby,rails,css,bootstrap,tailwind,html,js,react,mysql,postgres,nodejs,docker,postman,neovim,vscode,figma,git,github)](https://skillicons.dev)
 
@@ -22,8 +24,10 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pocket0yuka&layout=compact&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pocket0yuka&show_icons=true&theme=tokyonight)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pocket0yuka&layout=compact&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pocket0yuka&theme=tokyonight" />
+</p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pocket0yuka&theme=dracula)](https://github.com/pocket0yuka/github-profile-trophy)
