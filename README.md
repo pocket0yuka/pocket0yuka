@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/pocket0yuka/pocket0yuka/output/github-contribution-grid-snake.svg)
 
 ## 🌱Skills Currently Learning
-[![Skills](https://skillicons.dev/icons?perline=9&i=ruby,rails,css,bootstrap,tailwind,html,js,react,mysql,postgres,nodejs,docker,postman,neovim,vscode,figma,git,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?perline=9&i=ruby,rails,tailwind,docker,git,github)](https://skillicons.dev)
 
 
 ## 📈Status
